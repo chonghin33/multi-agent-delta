@@ -1,5 +1,9 @@
 # 🧠 Delta — A Multi Agent
-A multi-functional AI agent built without any external plugin but only prompt based module by Language Construct Modelling in Semantic Logic System. 
+A multi-functional AI agent built without any external plugin but only prompt based module by *Language Construct Modelling* in *Semantic Logic System*. 
+This is a demonstration on writing persistent LLMs runtime logic by *only prompt.*
+Details please check my repo of LCM and SLS.
+
+---
 
 Delta is not just a chatbot persona.  
 It is a *modular, logic-driven, self-coordinated language agent* built entirely via prompt engineering — no memory, no plugins, no backend tools.
