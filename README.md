@@ -91,6 +91,17 @@ This activates Delta’s full semantic agent mode.
 
 ## 🙌 Credits & License
 
-Delta was designed by Vincent Shing Hin Chong.  
+Delta was designed by Vincent Shing Hin Chong. 
+Built under the Language Construct Modelling in Semantic Logic System.
 Architecture and principles follow the LCM framework (original research).  
 Released under MIT License.
+
+Citation:
+Chong, V. S. H. (2025). Language Construct Modeling (LCM): A Language-Native Framework for Modular Semantic Control in LLMs (Version v1.13) [Computer software]. https://doi.org/10.17605/OSF.IO/4FEAZ
+Chong, V. S. H. (2025, April 24). Semantic Logic System v1.0 for LLMs— Public Documentation Release. https://doi.org/10.17605/OSF.IO/TW52H
+---
+
+### ☕ Support Delta's Evolution  
+If you find Delta inspiring or useful and want to support the ongoing development of modular, prompt-only agents —  
+you can [*buy me a coffee*](https://coff.ee/chonghin33).  
+Every bit helps fuel new experiments in language-based cognition.
